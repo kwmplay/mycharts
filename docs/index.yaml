@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: 2018-02-21T10:28:38.584571772-08:00
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-21T10:34:26.282839044-08:00
+    description: A Helm chart for Kubernetes
+    digest: 8184007f011887b8f1a7b5487779fa75767685f765d18eb458452a855b9f07e7
+    name: notificationchart
+    urls:
+    - https://kwmplay.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T10:34:26.282261485-08:00
